@@ -1,0 +1,27 @@
+# Godot 4+ specific ignores
+.godot/
+.nomedia
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_credentials.cfg
+*.tmp
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
+mono_crash.*.json
+
+# ==========================================
+# i3DAct Specific Custom Ignores
+# ==========================================
+# 忽略 i3DAct 运行和编译时可能产生的临时缓存文件夹（如果它名字变了的话）
+.i3dact/
+*.log
+
+# 注意：不要忽略 .iscn 文件！
+# 因为 .iscn 是 i3DAct 的场景保存格式，这是你真正的“代码/作品”，必须上传！
