@@ -1,2 +1,6 @@
 # computer_graphic
-It's my first rerpository. I will use it to hold the code and materials about learn computer graphic, include i3DAct, Godot, and game development.
+It's my first repository. I will use it to hold the code and materials about learning computer graphics, including i3DAct, Godot, and game development.
+2026/7/13
+I have already spent half of my time in university. However, when I sit down to think about what I have learned, I can say nothing. But when it comes to what I want to learn, I have many answers. I have great ambition but no patience. The last two years have passed from my life just like wasted water. I didn't learn anything. I played with worry and fear all the time. I didn't cultivate good habits. I was addicted to pornography. It took a great part of my life, and I can't get rid of it. I didn't find a good girlfriend, and maybe I will lose my dear girl whom I think of day and night. I have become lazy, self-deprecating, and easy to anger. The past two years were just like a fucking shit in my life, but I still need to overcome it. Overcome my laziness, my anger, and my poor health. I need to learn more. I want to be better. I want to get more.
+
+So I began to learn computer graphics, especially the new application ---- i3DAct, because I have a examine about how to use it. I will update my daily learning materials and results on this repository, so that I can record my way to becoming better. If possible, I will also develop a game using a 3D engine.
