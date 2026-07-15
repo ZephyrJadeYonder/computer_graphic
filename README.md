@@ -12,3 +12,8 @@ Today, I learned how to implement the basic controls for the character. However,
 From this small episode, I reached this conclusion: Never rely on AI, especially on your learning journey. It is just many lines of code; it can never replace your own mind.
 
 The second skill I learned was that the "Tab" button can automatically fill the blank with the suggested code
+
+# 2026/7/15
+It's a pity that France lost in the semi-finals. I had always thought that Kylian Mbappé was still young and had plenty of opportunities ahead. But today, I realized that he is already 27 years old. He is in the prime age of a striker, yet he missed the chance to win the World Cup championship this time. Will he have another chance to win the title again? I don't know. I often feel like there is still plenty of time left, so I still have time to play. But today, Mbappé taught me that time is a treasure, and indeed, it is the one thing we lack the most. From now on, I must do my best to make full use of my time.
+
+What I learned today was mainly about how to prevent camera clipping and how to use triggers. The trigger was the easier of the two tasks. Unfortunately, I couldn't fully implement the camera clipping function due to several reasons. I think the most likely reason is related to the size of the object, and I will test this further and search for more information later. I gained fewer insights from today's learning, mostly because I didn't get enough sleep. And to be honest, my body is aching today. I really need to get a good rest.
