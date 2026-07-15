@@ -1,0 +1,28 @@
+[s3_scene load_steps=4 format=3 uid="uid://b211r13h1sx11"]
+
+[ext_resource type="PackedScene" uid="uid://boq33s3rf721q" path="res://GLB format_brick/square-lq-plate-4x4.glb" id="1_endyj"]
+[ext_resource type="PackedScene" uid="uid://psldkrlss51i" path="res://GLB format_brick/square-lq-plate-1x1-round.glb" id="2_b1j2y"]
+[ext_resource type="PackedScene" uid="uid://by8ddvcag7q3i" path="res://GLB format_brick/square-lq-brick-corner.glb" id="3_ih87m"]
+
+[node name="Item3D" type="Item3D"]
+
+[node name="square-lq-plate-4x42" parent="." instance=ExtResource("1_endyj")]
+transform = Transform3D(20, 0, 0, 0, 20, 0, 0, 0, 20, 0, 0, 0)
+
+[node name="square-lq-plate-1x1-round2" parent="." instance=ExtResource("2_b1j2y")]
+transform = Transform3D(20, 0, 0, 0, 20, 0, 0, 0, 20, 0.869, 0.371, 0.802)
+
+[node name="square-lq-brick-corner2" parent="." instance=ExtResource("3_ih87m")]
+transform = Transform3D(-20, 0, -1.74846e-06, 0, 20, 0, 1.74846e-06, 0, -20, -1.51, 2.528, 1.516)
+
+[node name="square-lq-brick-corner3" parent="." instance=ExtResource("3_ih87m")]
+transform = Transform3D(-20, 0, -1.74846e-06, 0, 20, 0, 1.74846e-06, 0, -20, -1.549, 0.588, 1.541)
+
+[node name="square-lq-brick-corner4" parent="." instance=ExtResource("3_ih87m")]
+transform = Transform3D(-8.74228e-07, 0, -20, 0, 20, 0, 20, 0, -8.74228e-07, 1.602, 0.583, 1.553)
+
+[node name="square-lq-brick-corner5" parent="." instance=ExtResource("3_ih87m")]
+transform = Transform3D(2.38498e-07, 0, -20, 0, 20, 0, 20, 0, 2.38498e-07, 1.629, 2.524, 1.526)
+
+[node name="square-lq-plate-4x43" parent="." instance=ExtResource("1_endyj")]
+transform = Transform3D(20, 0, 0, 0, 20, 0, 0, 0, 20, 0, 4.415, 0)
